@@ -59,7 +59,7 @@ docker:
 
 %: help
 
-Expamples
+# Expamples
 # build_example_device_eng:
 # 	$(DOCKER) /bin/bash -i "$(SCRIPTS_DIR)/_make.sh" lunch_make_build example eng || :;
 
